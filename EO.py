@@ -38,3 +38,10 @@ if c1%2!=0:
 else:
     print("Number is Odd")
 
+
+d1 = int(input("Enter Your Number:"))
+if c1%2!=0:
+    print("Number is Even")
+else:
+    print("Number is Odd")
+
